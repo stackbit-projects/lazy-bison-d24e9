@@ -10,13 +10,7 @@
         "logo": "images/Screenshot 2021-01-24 at 01.57.11.png",
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
-        "primary_nav_links": [
-            {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            }
-        ],
+        "primary_nav_links": [],
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
