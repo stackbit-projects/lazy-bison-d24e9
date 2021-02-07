@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     title: Lazy Bison
     subtitle: Innovative software solutions
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: ''
     actions: []
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
